@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "parameter_sources": {
+    "forward_curve": "PROJECT: agreed wheat methodology",
+    "margin_defaults": "PROJECT: horizon 5 MOEX trading days; scenarios 10000; window 1000; minimum 200; forecast; limits disabled",
+    "ncc_defaults": "NCC 2026-92 sections 5.3-5.4: VaR, confidence 0.99, Student-t, ARMA(0,0), GARCH(1,1)",
+    "concentration": "PROJECT: both per-tonne rates are zero; limits and buckets not approved"
+  },
+  "forward_curve": {
+    "1D": {
+      "min_trade_volume": "800",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "1600",
+      "spread_max": "0.008"
+    },
+    "1W": {
+      "min_trade_volume": "800",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "1600",
+      "spread_max": "0.008"
+    },
+    "2W": {
+      "min_trade_volume": "800",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "1600",
+      "spread_max": "0.008"
+    },
+    "1M": {
+      "min_trade_volume": "800",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "1600",
+      "spread_max": "0.008"
+    },
+    "2M": {
+      "min_trade_volume": "800",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "1600",
+      "spread_max": "0.008"
+    },
+    "3M": {
+      "min_trade_volume": "800",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "1600",
+      "spread_max": "0.008"
+    },
+    "4M": {
+      "min_trade_volume": "200",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "800",
+      "spread_max": "0.012"
+    },
+    "5M": {
+      "min_trade_volume": "200",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "800",
+      "spread_max": "0.012"
+    },
+    "6M": {
+      "min_trade_volume": "200",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "800",
+      "spread_max": "0.012"
+    },
+    "7M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.016"
+    },
+    "8M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.016"
+    },
+    "9M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.016"
+    },
+    "10M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.016"
+    },
+    "11M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.016"
+    },
+    "12M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.016"
+    },
+    "13M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "14M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "15M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "16M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "17M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "18M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "19M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "20M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "21M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "22M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "23M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "24M": {
+      "min_trade_volume": "80",
+      "min_order_volume": "80",
+      "threshold_trade_volume": "400",
+      "spread_max": "0.020"
+    },
+    "25M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "26M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "27M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "28M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "29M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "30M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "31M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "32M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "33M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "34M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "35M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    },
+    "36M": {
+      "min_trade_volume": "50",
+      "min_order_volume": "100",
+      "threshold_trade_volume": "250",
+      "spread_max": "0.030"
+    }
+  },
+  "margin": {
+    "horizon_days": 5,
+    "scenarios": 10000,
+    "confidence": "0.99",
+    "fhs_window": 1000,
+    "min_observations": 200,
+    "metric": "var",
+    "seed": 42,
+    "volatility_mode": "forecast",
+    "recent_window": 20,
+    "volatility_floor": "0",
+    "min_volatility_ratio": null,
+    "previous_volatility": null,
+    "fhs_target": null,
+    "hypothetical_scenarios": [],
+    "event_scenarios": [],
+    "concentration": {
+      "limit1": null,
+      "limit2": null,
+      "addon1_per_tonne": "0",
+      "addon2_per_tonne": "0",
+      "buckets": []
+    }
+  }
+}

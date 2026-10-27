@@ -1,0 +1,69 @@
+{
+  "data_kind": "SYNTHETIC_TEST",
+  "generated_at_moscow": "2026-10-27_12-03-38_676100",
+  "settings": {
+    "calculation_date": "2026-10-15",
+    "previous_date": "2026-10-14",
+    "seed": 42,
+    "sessions": 6,
+    "levels_per_side": 4,
+    "trades_per_session_per_node": 4,
+    "session_noise_fraction": "0.0002",
+    "half_spread_fraction": "0.001",
+    "level_step_fraction": "0.00025",
+    "daily_trade_full_weight_fraction": "0.75",
+    "previous_price_factor": "0.998",
+    "shape_anchors": [
+      {
+        "tenor": "1D",
+        "price": "20000"
+      },
+      {
+        "tenor": "6M",
+        "price": "20500"
+      },
+      {
+        "tenor": "18M",
+        "price": "21800"
+      },
+      {
+        "tenor": "24M",
+        "price": "21200"
+      },
+      {
+        "tenor": "30M",
+        "price": "22200"
+      },
+      {
+        "tenor": "36M",
+        "price": "21500"
+      }
+    ]
+  },
+  "verification": {
+    "counts": {
+      "ORDER_NEW": 1872,
+      "TRADE": 936,
+      "ORDER_FILL": 936,
+      "ORDER_MODIFY": 936,
+      "ORDER_CANCEL": 1560
+    },
+    "node_count": 39,
+    "observed_nodes": 39,
+    "carried_nodes": 0,
+    "peaks": [
+      {
+        "tenor": "18M",
+        "price": "21798.64606671875"
+      },
+      {
+        "tenor": "30M",
+        "price": "22198.6212239062500"
+      }
+    ],
+    "all_nodes_mixed": true,
+    "valid_snapshots_per_node": 160
+  },
+  "wheat_input_sha256": "5f9f30e2622f2b4fb3392674a76c3dd00eae2c81b5351fe2feeb1f18deb8bbf0",
+  "automatic_regeneration": false
+}

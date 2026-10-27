@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+output/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+.idea/
+.env
+.env.*
+!.env.example
+input/*
+!input/README.md

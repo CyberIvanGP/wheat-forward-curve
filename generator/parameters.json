@@ -1,0 +1,21 @@
+{
+  "calculation_date": "2026-10-15",
+  "previous_date": "2026-10-14",
+  "seed": 42,
+  "sessions": 6,
+  "levels_per_side": 4,
+  "trades_per_session_per_node": 4,
+  "session_noise_fraction": "0.0002",
+  "half_spread_fraction": "0.001",
+  "level_step_fraction": "0.00025",
+  "daily_trade_full_weight_fraction": "0.75",
+  "previous_price_factor": "0.998",
+  "shape_anchors": [
+    {"tenor": "1D", "price": "20000"},
+    {"tenor": "6M", "price": "20500"},
+    {"tenor": "18M", "price": "21800"},
+    {"tenor": "24M", "price": "21200"},
+    {"tenor": "30M", "price": "22200"},
+    {"tenor": "36M", "price": "21500"}
+  ]
+}

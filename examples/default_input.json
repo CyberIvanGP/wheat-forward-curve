@@ -1,0 +1,389 @@
+{
+  "calculation_date": "2026-10-15",
+  "previous_date": "2026-10-14",
+  "previous_curve": [
+    {
+      "tenor": "1D",
+      "maturity_date": "2026-10-15",
+      "price": "19900",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "1W",
+      "maturity_date": "2026-10-21",
+      "price": "19920",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "2W",
+      "maturity_date": "2026-10-28",
+      "price": "19940",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "1M",
+      "maturity_date": "2026-11-14",
+      "price": "19300",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "2M",
+      "maturity_date": "2026-12-14",
+      "price": "19700",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "3M",
+      "maturity_date": "2027-01-14",
+      "price": "20200",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "4M",
+      "maturity_date": "2027-02-14",
+      "price": "20300",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "5M",
+      "maturity_date": "2027-03-14",
+      "price": "20500",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "6M",
+      "maturity_date": "2027-04-14",
+      "price": "20700",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "7M",
+      "maturity_date": "2027-05-14",
+      "price": "21000",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "8M",
+      "maturity_date": "2027-06-14",
+      "price": "21200",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "9M",
+      "maturity_date": "2027-07-14",
+      "price": "21300",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "10M",
+      "maturity_date": "2027-08-14",
+      "price": "20800",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "11M",
+      "maturity_date": "2027-09-14",
+      "price": "19900",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "12M",
+      "maturity_date": "2027-10-14",
+      "price": "19500",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "13M",
+      "maturity_date": "2027-11-14",
+      "price": "19450",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "14M",
+      "maturity_date": "2027-12-14",
+      "price": "19850",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "15M",
+      "maturity_date": "2028-01-14",
+      "price": "20350",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "16M",
+      "maturity_date": "2028-02-14",
+      "price": "20450",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "17M",
+      "maturity_date": "2028-03-14",
+      "price": "20650",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "18M",
+      "maturity_date": "2028-04-14",
+      "price": "20850",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "19M",
+      "maturity_date": "2028-05-14",
+      "price": "21150",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "20M",
+      "maturity_date": "2028-06-14",
+      "price": "21350",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "21M",
+      "maturity_date": "2028-07-14",
+      "price": "21450",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "22M",
+      "maturity_date": "2028-08-14",
+      "price": "20950",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "23M",
+      "maturity_date": "2028-09-14",
+      "price": "20050",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "24M",
+      "maturity_date": "2028-10-14",
+      "price": "19650",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "25M",
+      "maturity_date": "2028-11-14",
+      "price": "19600",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "26M",
+      "maturity_date": "2028-12-14",
+      "price": "20000",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "27M",
+      "maturity_date": "2029-01-14",
+      "price": "20500",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "28M",
+      "maturity_date": "2029-02-14",
+      "price": "20600",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "29M",
+      "maturity_date": "2029-03-14",
+      "price": "20800",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "30M",
+      "maturity_date": "2029-04-14",
+      "price": "21000",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "31M",
+      "maturity_date": "2029-05-14",
+      "price": "21300",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "32M",
+      "maturity_date": "2029-06-14",
+      "price": "21500",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "33M",
+      "maturity_date": "2029-07-14",
+      "price": "21600",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "34M",
+      "maturity_date": "2029-08-14",
+      "price": "21100",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "35M",
+      "maturity_date": "2029-09-14",
+      "price": "20200",
+      "fallback_streak": 0
+    },
+    {
+      "tenor": "36M",
+      "maturity_date": "2029-10-14",
+      "price": "19800",
+      "fallback_streak": 0
+    }
+  ],
+  "events": [
+    {
+      "event_id": "event-001",
+      "event_type": "ORDER_NEW",
+      "time": "10:03:00",
+      "order_id": "4M-BUY",
+      "side": "BUY",
+      "price": "20500",
+      "quantity": "300",
+      "maturity_date": "2027-02-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-002",
+      "event_type": "ORDER_NEW",
+      "time": "10:03:00",
+      "order_id": "4M-SELL",
+      "side": "SELL",
+      "price": "20700",
+      "quantity": "300",
+      "maturity_date": "2027-02-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-003",
+      "event_type": "ORDER_NEW",
+      "time": "10:00:00",
+      "order_id": "9M-BUY",
+      "side": "BUY",
+      "price": "18950",
+      "quantity": "150",
+      "maturity_date": "2027-07-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-004",
+      "event_type": "ORDER_NEW",
+      "time": "10:00:00",
+      "order_id": "9M-SELL",
+      "side": "SELL",
+      "price": "19050",
+      "quantity": "150",
+      "maturity_date": "2027-07-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-005",
+      "event_type": "TRADE",
+      "time": "11:30:00",
+      "trade_id": "trade-5",
+      "price": "20020",
+      "quantity": "900",
+      "maturity_date": "2026-10-16",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-006",
+      "event_type": "TRADE",
+      "time": "11:30:00",
+      "trade_id": "trade-6",
+      "price": "20120",
+      "quantity": "900",
+      "maturity_date": "2026-11-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-007",
+      "event_type": "TRADE",
+      "time": "11:30:00",
+      "trade_id": "trade-7",
+      "price": "20700",
+      "quantity": "200",
+      "maturity_date": "2027-02-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-008",
+      "event_type": "TRADE",
+      "time": "11:30:00",
+      "trade_id": "trade-8",
+      "price": "20500",
+      "quantity": "200",
+      "maturity_date": "2027-05-01",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-009",
+      "event_type": "TRADE",
+      "time": "11:30:00",
+      "trade_id": "trade-9",
+      "price": "20800",
+      "quantity": "80",
+      "maturity_date": "2028-06-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-010",
+      "event_type": "TRADE",
+      "time": "11:30:00",
+      "trade_id": "trade-10",
+      "price": "20500",
+      "quantity": "50",
+      "maturity_date": "2029-10-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "event-011",
+      "event_type": "ORDER_CANCEL",
+      "time": "11:06:00",
+      "order_id": "4M-BUY"
+    },
+    {
+      "event_id": "event-012",
+      "event_type": "ORDER_CANCEL",
+      "time": "11:06:00",
+      "order_id": "4M-SELL"
+    },
+    {
+      "event_id": "event-013",
+      "event_type": "ORDER_MODIFY",
+      "time": "13:00:00",
+      "order_id": "9M-BUY",
+      "price": "18970"
+    },
+    {
+      "event_id": "event-014",
+      "event_type": "ORDER_MODIFY",
+      "time": "13:00:00",
+      "order_id": "9M-SELL",
+      "price": "19070"
+    },
+    {
+      "event_id": "event-015",
+      "event_type": "ORDER_FILL",
+      "time": "14:00:00",
+      "order_id": "9M-SELL",
+      "quantity": "30"
+    },
+    {
+      "event_id": "event-016",
+      "event_type": "TRADE",
+      "time": "14:00:00",
+      "trade_id": "trade-16",
+      "price": "19070",
+      "quantity": "30",
+      "maturity_date": "2027-07-15",
+      "trade_type": "NON_ADDRESS"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "calculation_date": "2026-10-15",
+  "previous_date": "2026-10-14",
+  "previous_curve": [
+    {"tenor": "4M", "price": "20500", "fallback_streak": 0}
+  ],
+  "events": [
+    {
+      "event_id": "bid-created",
+      "event_type": "ORDER_NEW",
+      "time": "10:00:00",
+      "order_id": "bid-1",
+      "side": "BUY",
+      "price": "20500",
+      "quantity": "100",
+      "maturity_date": "2027-02-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "ask-created",
+      "event_type": "ORDER_NEW",
+      "time": "10:00:00",
+      "order_id": "ask-1",
+      "side": "SELL",
+      "price": "20700",
+      "quantity": "100",
+      "maturity_date": "2027-02-15",
+      "trade_type": "NON_ADDRESS"
+    },
+    {
+      "event_id": "trade-registered",
+      "event_type": "TRADE",
+      "time": "11:30:00",
+      "trade_id": "trade-1",
+      "price": "20700",
+      "quantity": "200",
+      "maturity_date": "2027-02-15",
+      "trade_type": "NON_ADDRESS"
+    }
+  ]
+}
